@@ -1,0 +1,91 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 45px;
+  margin-top: 50px;
+  width: 15%;
+  margin: 0 auto 0 auto;
+  font-weight: normal;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  right: 350px;
+  top: 70px;
+}
+.bottom-cloud {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  left: 350px;
+  bottom: 200px;
+}
+
+.mountain {
+
+  width: 800px;
+}
+
+.pari {
+  height: 150px;
+}
+.circular {
+  border-radius: 100%;
+}
+
+.coding {
+  width: 35%;
+  float: left;
+  margin-right: 20px;
+}
+.circular {
+  border-radius: 100%;
+}
+
+.web {
+  width: 35%;
+  float: right;
+  margin-left: 20px;
+}
+.circular {
+  border-radius: 100%;
+}
+
+div {
+  background-color: #E4F9F5;
+}
